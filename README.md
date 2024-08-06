@@ -1,6 +1,6 @@
 <img width="250px" src="https://raw.githubusercontent.com/andre-marcos-perez/ebac-course-utils/main/media/logo/newebac_logo_black_half.png" alt="ebac-logo">
 
-# Análise Exploratória de Dados de Logística - Empresa Loggi
+## Análise Exploratória de Dados de Logística - Empresa Loggi
 Projeto Desenvolvido para exercício de estudo junto a Ebac.
 
 ### Contexto
