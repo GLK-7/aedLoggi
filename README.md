@@ -10,3 +10,5 @@ A Loggi é uma startup brasileira de tecnologia, que se tornou um unicórnio, es
 
 
 Neste projeto, foi realizada uma análise das entregas feitas pela empresa no Distrito Federal. No decorrer do trabalho, foram explorarados, reorganizados e estruturados os dados para que possam ser visualizados de forma clara e compreensível. Dessa maneira, foi possível extrair insights valiosos a partir das informações apresentadas.
+
+Para acessar o projeto no Kaggle, utilize <a href="https://www.kaggle.com/code/glgodoi/an-lise-explorat-ria-de-dados-loggi-ebac">este link.</a>
